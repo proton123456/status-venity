@@ -1,4 +1,3 @@
-# status-venity
-
-URL:
- https://www.venity-status.ml/main
+# Venity Status Homepage
+# -
+# Please go to https://www.venity-status.ml/main
